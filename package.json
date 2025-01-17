@@ -1,11 +1,9 @@
 {
   "name": "makidevelopers",
   "private": true,
-  "homepage": "https://makidevelopers/github.io/makidevelopers",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
