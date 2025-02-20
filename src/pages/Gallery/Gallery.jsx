@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { StarIcon } from "@heroicons/react/20/solid";
 import { Radio, RadioGroup } from "@headlessui/react";
-import Navbar from "../../components/navbar/Navbar";
+import Navbar from "../../components/Navbar/Navbar";
 import pic01 from "../../assets/pic1.jpg"
 import pic02 from "../../assets/pic2.jpg"
 import pic03 from "../../assets/pic3.jpg"
