@@ -3,8 +3,8 @@ import Hero from '../../components/Hero/Hero'
 import AboutUs from '../../components/About-us/AboutUs'
 import Services from '../../components/Services/Services'
 import Footer from '../../components/Footer/Footer'
-import Navbar from '../../components/navbar/Navbar'
 import ContactUs from '../../components/Contact/Contact'
+import Navbar from '../../components/Navbar/Navbar'
 
 const Home = () => {
   return (
