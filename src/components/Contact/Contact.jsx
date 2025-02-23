@@ -80,9 +80,9 @@ export default function ContactUs() {
           <address className="not-italic text-gray-600">
             <strong>Email:</strong> <a href={`mailto:${contactConfig.YOUR_EMAIL}`} className="text-blue-500">{contactConfig.YOUR_EMAIL}</a>
             <br />
-            {contactConfig.YOUR_FONE && (
+            {contactConfig.YOUR_FONE1 && (
               <p>
-                <strong>Phone:</strong> {contactConfig.YOUR_FONE}
+                <strong>Phone:</strong> {contactConfig.YOUR_FONE1} <strong>|</strong> {contactConfig.YOUR_FONE2}
               </p>
             )}
           </address>
