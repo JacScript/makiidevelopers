@@ -21,6 +21,11 @@ const NavbarMenu = [
     link: "#services",
   },
   {
+    id: 5,
+    title: "Mission",
+    link: "#mission",
+  },
+  {
     id: 4,
     title: "Gallery",
     // path: "/gallery",
@@ -30,6 +35,7 @@ const NavbarMenu = [
     title: "Contact Us",
     link: "#contact",
   },
+  
 ];
 
 const Navbar = () => {

@@ -78,12 +78,12 @@ const SlideLeft = (delay) => {
 };
 const Services = () => {
   return (
-    <section className="bg-white" id="services">
+    <section className="bg-white" id="mission">
       <div className="container pb-14 pt-16">
-        {/* <h1 className="text-4xl font-bold pb-10 text-center">
-          Services we provide
+        <h1 className="text-4xl font-bold pb-10 text-center">
+          Mission | Vission | Values
 
-        </h1> */}
+        </h1>
         <div className="flex md:flex-row flex-col justify-center items-center gap-4 ">
         {/* <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-8"> */}
           {ServicesData.map((service, id) => (
