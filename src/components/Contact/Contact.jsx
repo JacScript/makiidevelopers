@@ -64,7 +64,7 @@ export default function ContactUs() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        <h1 className="text-4xl font-bold mb-4">Contact Me</h1>
+        <h1 className="max-sm:text-xl text-4xl font-bold mb-4">Contact Me</h1>
         <hr className="border-t-2 border-gray-300 w-1/4" />
       </motion.div>
 
