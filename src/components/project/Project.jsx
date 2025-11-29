@@ -76,7 +76,7 @@ const SuccessStories = () => {
       description: "Supply of hardware servers, desktops, laptops, UPS and interactive boards",
       tags: "Government",
       status: "Completed",
-      year: "2021",
+      year: "2022",
     },
     {
       id: 2,
@@ -97,8 +97,8 @@ const SuccessStories = () => {
   ];
 
   const stats = [
-    { number: "50+", label: "Completed Projects", duration: 2 },
-    { number: "25+", label: "Government Clients", duration: 1.5 },
+    { number: "20+", label: "Completed Projects", duration: 2 },
+    { number: "18+", label: "Government Clients", duration: 1.5 },
     { number: "100%", label: "Success Rate", duration: 2.5 }
   ];
 

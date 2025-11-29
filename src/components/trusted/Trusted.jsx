@@ -18,7 +18,7 @@ const TrustedBy = () => {
     },
     {
       category: "Financial Institutions",
-      count: "8+",
+      count: "2+",
       description: "Banks, insurance companies, and financial services",
       icon: <CiBank className="text-xl" />,
       gradient: "from-green-500 to-emerald-500",
@@ -26,7 +26,7 @@ const TrustedBy = () => {
     },
     {
       category: "Educational Institutions",
-      count: "12+",
+      count: "2+",
       description: "Universities, colleges, and training centers",
       icon: <CiBank className="text-xl" />,
       gradient: "from-purple-500 to-pink-500",
@@ -34,7 +34,7 @@ const TrustedBy = () => {
     },
     {
       category: "Private Sector",
-      count: "25+",
+      count: "1+",
       description: "Corporations, SMEs, and business organizations",
       icon: <CiBank className="text-xl" />,
       gradient: "from-orange-500 to-red-500",
@@ -43,9 +43,9 @@ const TrustedBy = () => {
   ];
 
   const stats = [
-    { number: "60+", label: "Projects Completed", icon: <FaRocket /> },
+    { number: "20+", label: "Projects Completed", icon: <FaRocket /> },
     { number: "50+", label: "Happy Clients", icon: <FaAward /> },
-    { number: "5+", label: "Years Experience", icon: <FaShieldAlt /> },
+    { number: "3+", label: "Years Experience", icon: <FaShieldAlt /> },
     { number: "24/7", label: "Support", icon: <FaCrown /> }
   ];
 

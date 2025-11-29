@@ -9,9 +9,9 @@ const AboutUs = () => {
   const stats = [
     // { number: "2019", label: "Established" },
     // { number: "Dar es Salaam", label: "Headquarters" },
-    { number: "500+", label: "Happy Clients" , icon: <IoPeople />},
+    { number: "100+", label: "Happy Clients" , icon: <IoPeople />},
     { number: "24/7", label: "Support", icon: <IoLocationOutline /> },
-    { number: "7", label: "Years Experience", icon: <IoCalendarOutline /> },
+    { number: "3", label: "Years Experience", icon: <IoCalendarOutline /> },
     { number: "100%", label: "Tanzanian Owned", icon: <IoPeople /> }
   ];
 
@@ -129,7 +129,7 @@ const AboutUs = () => {
                    
                     <div>
                       <h3 className={`text-base font-bold  ${isDarkMode ? "text-gray-900 dark:text-gray-100" : "text-black"}`}>
-                       2019
+                       2022
                       </h3>
                       <p className={` ${isDarkMode ? "text-gray-900 dark:text-gray-100" : "text-black/80"} text-sm`}>
                         Established
